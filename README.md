@@ -53,16 +53,16 @@
 ### ${\textsf{\color{WildStrawberry}No Person}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
 
 #### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
-- PM, PE, 기획자, 디자이너, 마케터 등 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
+- ${\textsf{\color{ProcessBlue}PM, PE, 기획자, 디자이너, 마케터 등}}$ 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
 - Agent가 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
 - 가짜 회사는 엔터테인먼트 회사가 될 수도 있고, 게임 회사가 될 수도 있고, 디자인 회사가 될 수도 있습니다.
 
 #### 두번째 목표: ${\textsf{\color{YellowOrange}Multi-Agent Orchestration}}$
-- 개발한 Agent들이 원활하게 협업을 할 수 있도록 환경을 조성하는 것을 목표로 합니다.
-- Agent들끼리 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
+- 개발한 Agent들이 원활하게 ${\textsf{\color{ProcessBlue}협업}}$을 할 수 있도록 환경을 조성하는 것을 목표로 합니다.
+- 가짜 회사의 Agent들은 스스로 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
 
 #### 세번째 목표: ${\textsf{\color{YellowOrange}Agent Collaboration Visualization}}$
-- 실제로 Agent가 협업하는 모습을 홈페이지/프로그램으로 시각화하여 가시성 및 UX를 높힐 것 입니다.
+- 실제로 Agent가 협업하는 모습을 홈페이지/프로그램으로 시각화하여 ${\textsf{\color{ProcessBlue}가시성 및 UX}}$를 높힐 것 입니다.
 
 
 ## 🧑 회사 소개

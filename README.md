@@ -21,7 +21,6 @@
 </div>
 
 <br>
-<br>
 
 > 가짜 회사에 오신 여러분들을 환영합니다! 가짜 회사는 Web, Cloud, LLM, sLLM, RAG, Prompt Engineering 등의 기술들을 직접 사용하고 응용하고 활용하여 ${\textsf{\color{ProcessBlue}Multi-Agent Orchestration System}}$을 구축해 생산성을 향상시키는 프로젝트입니다. 
 

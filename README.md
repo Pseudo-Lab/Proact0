@@ -43,11 +43,12 @@
 ### LLM 기술만으론 마법이 일어나지 않습니다. 우리는 발상의 전환이 필요합니다.
 > _“RAG(Retrieval-Augmented Generation) 기술 자체는 단순하지만, 실제 구현에는 많은 세부사항이 필요합니다. 검색 품질을 높이기 위해 크롤링, 인덱싱, 랭킹 등 여러 기술 요소들을 세밀하게 조정해야 합니다. 순수한 벡터 임베딩만으로는 충분하지 않으며, 전통적인 IR 기법들과 하이브리드 접근이 필요합니다. Perplexity는 자체 Sonar 모델을 개발하고 지속적으로 개선하고 있습니다. 검색 성능 향상을 위해 latency 관리 등 다양한 최적화 작업을 수행하고 있습니다.”_ <br> – Aravind Srinivas, Perplexity CEO. Lex Fridman 팟캐스트에서
 
-- 우리는 AI기술과 더불어 도메인 지식, 모든 분야의 기술을 응용, 조합, 재해석하여 여러 관점에서 Agent 생성을 시도해보고 검증해나갈 것입니다.
+- 우리는 AI 기술과 더불어 개인이 가지고 있는 도메인 지식/기술 등을 ${\textsf{\color{ProcessBlue}응용, 조합, 재해석}}$하여 여러 관점에서 Agent 생성을 시도해보고 검증해나갈 것입니다.
 
 ### 가짜 회사에서는 Agent들이 여러분들의 일을 대신 수행해 줄 것 입니다.
 - 가짜 회사에서는 AI를 극한까지 활용하여 여러분들의 일을 대신 수행해 주는 Agent들을 개발합니다.
 - 각자가 ${\textsf{\color{ProcessBlue}원하는 Agent}}$를 개발하여 가짜 회사에 입사시킬 수 있고 해당 Agent는 자체적으로 자신의 업무를 수행합니다.
+
 
 ## 🌟 프로젝트 목표 (Project Vision)
 ### ${\textsf{\color{WildStrawberry}No Person}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
@@ -59,7 +60,7 @@
 
 #### 두번째 목표: ${\textsf{\color{YellowOrange}Multi-Agent Orchestration}}$
 - 개발한 Agent들이 원활하게 ${\textsf{\color{ProcessBlue}협업}}$을 할 수 있도록 환경을 조성하는 것을 목표로 합니다.
-- 가짜 회사의 Agent들은 스스로 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
+- 가짜 회사의 Agent들은 ${\textsf{\color{ProcessBlue}스스로}}$ 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
 
 #### 세번째 목표: ${\textsf{\color{YellowOrange}Agent Collaboration Visualization}}$
 - 실제로 Agent가 협업하는 모습을 홈페이지/프로그램으로 시각화하여 ${\textsf{\color{ProcessBlue}가시성 및 UX}}$를 높힐 것 입니다.

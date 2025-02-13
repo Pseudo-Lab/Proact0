@@ -137,6 +137,7 @@ gantt
 ## 💡 참고 레퍼런스 (Reference)
 - [중헌 아카이브](https://www.hon2yt2ch.life/): 680+개의 기술 포스트 아카이빙
 - [Tips for building AI Agents](https://www.youtube.com/watch?v=LP5OCa20Zpg): Agent의 전망, 팁
+- [AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction): HuggingFace AI Agent Course
 
 
 ## 🌱 참여 안내 (How to Engage)

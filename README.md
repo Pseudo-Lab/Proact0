@@ -53,7 +53,7 @@
 
 
 ## 🌟 프로젝트 목표 (Project Vision)
-### ${\textsf{\color{WildStrawberry}No Person}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
+### ${\textsf{\color{WildStrawberry}No Human}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
 
 #### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
 - ${\textsf{\color{ProcessBlue}PM, PE, 기획자, 디자이너, 마케터 등}}$ 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.

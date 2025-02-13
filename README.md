@@ -80,6 +80,7 @@
 | **Member**          | Your Name    | Anything |  |
 ...
 
+
 ## 🚀 가짜 회사 로드맵 (Pseudo Company Roadmap)
 ```mermaid
 gantt
@@ -128,13 +129,14 @@ gantt
 | DevOps                  | ?         | 
 | Collaboration Tools | ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Wiki](https://img.shields.io/badge/-GitHub%20Wiki-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | 
 
+
 ## 📈 성과 지표 (Achievement Metrics)
 ### We Can Make Everything
 
 
-
-## 💡 학습 자원 (Learning Resources)
+## 💡 참고 레퍼런스 (Reference)
 - [중헌 아카이브](https://www.hon2yt2ch.life/): 680+개의 기술 포스트 아카이빙
+- [Tips for building AI Agents](https://www.youtube.com/watch?v=LP5OCa20Zpg): Agent의 전망, 팁
 
 
 ## 🌱 참여 안내 (How to Engage)
@@ -146,9 +148,10 @@ gantt
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
 
-## Acknowledgement 🙏
 
+## Acknowledgement 🙏
 Pseudo Company is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+
 
 ## About Pseudo Lab 👋🏼</h2>
 

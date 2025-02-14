@@ -95,7 +95,7 @@ gantt
     Pseudo Magical Week       :b1, 2025-03-23, 7d
     Pseudo Magical Week       :b2, 2025-04-27, 7d
     Pseudo Conference         :b3, 2025-05-17, 1d
-    Work Shop                 :b4, after b3, 7d
+    Work Shop                 :b4, after b3, 2d
 ```
 
 

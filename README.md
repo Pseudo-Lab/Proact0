@@ -86,7 +86,7 @@
 gantt
     title 2025 10기 Pseudo Company Agile Process
     section 핵심 마일스톤 
-    OT 및 팀 역할 배정        :a1, 2025-02-24, 7d
+    OT 및 팀 역할 배정        :a1, 2025-03-03, 7d
     Sprint 1                  :a2, after a1, 28d
     Sprint 2                  :a3, after a2, 28d
     Sprint 3                  :a4, after a3, 28d

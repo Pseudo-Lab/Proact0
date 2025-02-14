@@ -92,8 +92,10 @@ gantt
     Sprint 3                  :a4, after a3, 28d
     Sprint 4                  :a5, after a4, 21d
     section 부가 활동
-    Pseudo Conference         :b1, 2025-05-17, 1d
-    Work Shop                 :b2, after b1, 7d
+    Pseudo Magical Week       :b1, 2025-03-23, 7d
+    Pseudo Magical Week       :b2, 2025-04-27, 7d
+    Pseudo Conference         :b3, 2025-05-17, 1d
+    Work Shop                 :b4, after b3, 7d
 ```
 
 
@@ -111,24 +113,25 @@ gantt
 
 
 ## 💻 주요 활동 (Activity Main History)
-| 날짜       | 내용                | 진행 그룹 | 
-| ---------- | ------------------- | --------- |
-| 2025/02/24 | OT                  | 전체      |
-| 2025/05/17 | Pseudo Conference   | 전체      | 
-| 2025/05/?? | Work Shop(희망사항) | 전체      | 
+| 날짜                | 내용                | 진행 그룹 | 
+| ------------------- | ------------------- | --------- |
+| 2025/02/24          | OT                  | 전체      |
+| 2025/03/23-03-29    | Pseudo Conference   | 전체      | 
+| 2025/04/27-05/03    | Pseudo Conference   | 전체      | 
+| 2025/05/17          | Pseudo Conference   | 전체      | 
+| 2025/05/??-??       | Work Shop(희망사항) | 전체      | 
 
 
 ## 🛠️ 기술 스택 (Technology Stack)
 | 기술                    | 스택      | 
 | ----------------------- | --------- |
-| Language                | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)          |
-| AI Framework & Library  | ?         | 
+| Language                | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| AI Framework & Library  | ![LangChain](https://img.shields.io/badge/LangChain-FF0072?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0F9D58?style=for-the-badge) ... | 
 | Web Framework & Library | ?         | 
 | Database                | ?         | 
-| MLOps                   | ?         | 
-| DevOps                  | ?         | 
+| MLOps                   | ![LangSmith](https://img.shields.io/badge/LangSmith-4285F4?style=for-the-badge) | 
+| DevOps                  |           | 
 | Collaboration Tools | ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Wiki](https://img.shields.io/badge/-GitHub%20Wiki-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | 
-
 
 ## 📈 성과 지표 (Achievement Metrics)
 ### We Can Make Everything

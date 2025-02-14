@@ -158,12 +158,12 @@ Pseudo Company is developed as part of Pseudo-Lab's Open Research Initiative. Sp
 
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
-<h2>Contributors 😃</h2>
+## Contributors 😃
 <a href="https://github.com/Pseudo-Lab/Pseudo-Company/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Pseudo-Lab/Pseudo-Company" />
 </a>
 <br><br>
 
-<h2>License 🗞</h2>
+## License 🗞
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).

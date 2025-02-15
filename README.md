@@ -56,7 +56,7 @@
 ### ${\textsf{\color{WildStrawberry}No Human}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
 
 #### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
-- ${\textsf{\color{ProcessBlue}PM, PE, 기획자, 디자이너, 마케터 등}}$ 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
+- ${\textsf{\color{ProcessBlue}CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 회가 등}}$ 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
 - Agent가 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
 - 가짜 회사는 엔터테인먼트 회사가 될 수도 있고, 게임 회사가 될 수도 있고, 디자인 회사가 될 수도 있습니다.
 
@@ -145,7 +145,7 @@ gantt
 - [Tips for building AI Agents](https://www.youtube.com/watch?v=LP5OCa20Zpg): Agent의 전망, 팁
 - [AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction): HuggingFace AI Agent Course
 - [ADAS, Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435): 다른 AI를 설계하는 Meta Agent
-
+- [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924): Agent들로 구성된 게임회사
 
 ## 🌱 참여 안내 (How to Engage)
 ### 정규 팀원(러너)으로 참여하시려면 러너 모집 기간에 신청해주세요.

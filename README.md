@@ -99,7 +99,7 @@ gantt
 ```
 
 
-## 💻 스프린트 진행 방식 (Sprint Process)
+## 🏃 스프린트 진행 방식 (Sprint Process)
 세부 프로세스는 러너(팀원)분들과 협의에 의해 변경될 수 있습니다.
 | 프로세스명          | 세부 내용                                          |
 | ------------------- | -------------------------------------------------- |
@@ -133,8 +133,10 @@ gantt
 | DevOps                  |           | 
 | Collaboration Tools | ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Wiki](https://img.shields.io/badge/-GitHub%20Wiki-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | 
 
-## 📈 성과 지표 (Achievement Metrics)
+
+## 🏅 성과 지표 (Achievement Metrics)
 총 개발 Agent 수: 0
+
 
 ## 💡 참고 레퍼런스 (Reference)
 - [Tips for building AI Agents](https://www.youtube.com/watch?v=LP5OCa20Zpg): Agent의 전망, 팁
@@ -147,11 +149,10 @@ gantt
 - 정규 모집 기간: 2025.02.19~03.01
 - 링크 : 준비중
 
-
-### ✨ 포텐 넘치는 시너지 (Synergy)
+### 포텐 넘치는 시너지 (Synergy)
 🔍 궁금한 건 못 참으시는 분
 
-🏃 도전하는 것을 주저하지 않으시는 분
+🧗 도전하는 것을 주저하지 않으시는 분
 
 😤 수동적이지 않고 능동적인 분
 

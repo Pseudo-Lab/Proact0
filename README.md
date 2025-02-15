@@ -26,7 +26,7 @@
 
 | `폭발적인 성장`, `의미있는 성과 창출`, `AI시대에서 살아남기`, `진짜 협업하기`. 모두 ${\textsf{\color{YellowOrange}Pseudo Company™}}$에서 함께 할 수 있습니다.
 
-## 프로젝트 개요 (Project Overview)
+## 🌟 프로젝트 개요 (Project Overview)
 ### 이용 당하느냐. VS 이용 하느냐.
 - AI로 할 수 있는 일은 앞으로 점차 늘어날 것 입니다.
 - AI의 발전은 생활이 더 편해진다는 것과 더불어 많은 일들이 대체(자동화) 된다는 이야기이기도 합니다.
@@ -52,7 +52,7 @@
 - 각자가 ${\textsf{\color{ProcessBlue}원하는 Agent}}$를 개발하여 가짜 회사에 입사시킬 수 있고 해당 Agent는 자체적으로 자신의 업무를 수행합니다.
 
 
-## 🌟 프로젝트 목표 (Project Vision)
+## 🎯 프로젝트 목표 (Project Vision)
 ### ${\textsf{\color{WildStrawberry}No Human}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
 
 #### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
@@ -99,7 +99,7 @@ gantt
 ```
 
 
-## 🚀 스프린트 진행 방식 (Sprint Process)
+## 💻 스프린트 진행 방식 (Sprint Process)
 세부 프로세스는 러너(팀원)분들과 협의에 의해 변경될 수 있습니다.
 | 프로세스명          | 세부 내용                                          |
 | ------------------- | -------------------------------------------------- |
@@ -112,7 +112,7 @@ gantt
 |                     | 스프린트 회고                                      |
 
 
-## 💻 주요 활동 (Activity Main History)
+## 📅 주요 활동 (Activity Main History)
 | 날짜                | 내용                | 진행 그룹 | 
 | ------------------- | ------------------- | --------- |
 | 2025/02/24          | OT                  | 전체      |
@@ -126,16 +126,15 @@ gantt
 | 기술                    | 스택      | 
 | ----------------------- | --------- |
 | Language                | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| AI Framework & Library  | ![LangChain](https://img.shields.io/badge/LangChain-FF0072?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0F9D58?style=for-the-badge) ... | 
+| AI Framework & Library  | ![LangChain](https://img.shields.io/badge/LangChain-FF0072?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0F9D58?style=for-the-badge&logo=langgraph&logoColor=white) ... | 
 | Web Framework & Library | ?         | 
 | Database                | ?         | 
-| MLOps                   | ![LangSmith](https://img.shields.io/badge/LangSmith-4285F4?style=for-the-badge) | 
+| MLOps                   | ![LangSmith](https://img.shields.io/badge/LangSmith-4285F4?style=for-the-badge&logo=langchain&logoColor=white) | 
 | DevOps                  |           | 
 | Collaboration Tools | ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Wiki](https://img.shields.io/badge/-GitHub%20Wiki-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | 
 
 ## 📈 성과 지표 (Achievement Metrics)
-### We Can Make Everything
-
+총 개발 Agent 수: 0
 
 ## 💡 참고 레퍼런스 (Reference)
 - [Tips for building AI Agents](https://www.youtube.com/watch?v=LP5OCa20Zpg): Agent의 전망, 팁
@@ -144,13 +143,21 @@ gantt
 
 
 ## 🌱 참여 안내 (How to Engage)
-### 팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.
-- 링크 (준비중)
+### 정규 팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.
+- 정규 모집 기간: 2025.02.19~03.01
+- 링크 : 준비중
 
-### 누구나 스프린트 회의에 참여하실 수 있습니다.
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-?? 채널로 입장
-2. Magical Week 중 행사에 참가
-3. Pseudo Lab 행사에서 만나기
+
+## ✨ 포텐 넘치는 시너지 (Synergy)
+🔍 궁금한 건 못 참으시는 분
+
+🏃 도전하는 것을 주저하지 않으시는 분
+
+😤 수동적이지 않고 능동적인 분
+
+🧱 "벽은 부수라고 있는 거야"라고 생각하시는 분
+
+❤️‍🔥 열정이 너무 뜨거워 컵라면 정도는 열정으로 끓이시는 분
 
 
 ## Acknowledgement 🙏

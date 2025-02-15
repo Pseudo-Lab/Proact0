@@ -56,7 +56,7 @@
 ### ${\textsf{\color{WildStrawberry}No Human}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
 
 #### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
-- ${\textsf{\color{ProcessBlue}CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 회가 등}}$ 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
+- ${\textsf{\color{ProcessBlue}CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등}}$ 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
 - Agent가 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
 - 가짜 회사는 엔터테인먼트 회사가 될 수도 있고, 게임 회사가 될 수도 있고, 디자인 회사가 될 수도 있습니다.
 

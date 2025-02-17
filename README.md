@@ -22,7 +22,7 @@
 
 <br>
 
-> 가짜 회사에 오신 여러분들을 환영합니다! 가짜 회사는 Web, Cloud, LLM, sLLM, RAG, Prompt Engineering 등의 기술들을 직접 사용하고 응용하고 활용하여 여러분들이 ${\textsf{\color{ProcessBlue}원하는 Agent}}$를 만들고, ${\textsf{\color{ProcessBlue}Multi-Agent Orchestration System}}$을 구축하여 생산성을 향상시키는 프로젝트입니다. 
+> 가짜 회사에 오신 여러분들을 환영합니다! 가짜 회사는 Web, Cloud, AI Backend, LLM, sLLM, RAG, Prompt Engineering 등의 기술들을 직접 사용하고 응용하고 활용하여 여러분들이 ${\textsf{\color{ProcessBlue}원하는 Agent}}$를 만들고, ${\textsf{\color{ProcessBlue}Multi-Agent Orchestration System}}$을 구축하여 생산성을 향상시키는 프로젝트입니다. 
 
 | `폭발적인 성장`, `의미있는 성과 창출`, `AI시대에서 살아남기`, `진짜 협업하기`. 모두 ${\textsf{\color{YellowOrange}Pseudo Company™}}$에서 함께 할 수 있습니다.
 

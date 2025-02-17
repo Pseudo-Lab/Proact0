@@ -126,7 +126,7 @@ gantt
 | 기술                    | 스택      | 
 | ----------------------- | --------- |
 | Language                | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| AI Framework & Library  | ![LangChain](https://img.shields.io/badge/LangChain-FF0072?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0F9D58?style=for-the-badge&logo=langgraph&logoColor=white) ... | 
+| AI Framework & Library  | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FF0072?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0F9D58?style=for-the-badge&logo=langgraph&logoColor=white) ... | 
 | Web Framework & Library | ?         | 
 | Database                | ?         | 
 | MLOps                   | ![LangSmith](https://img.shields.io/badge/LangSmith-4285F4?style=for-the-badge&logo=langchain&logoColor=white) | 

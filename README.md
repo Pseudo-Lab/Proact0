@@ -134,32 +134,19 @@ gantt
 | Collaboration Tools | ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Wiki](https://img.shields.io/badge/-GitHub%20Wiki-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | 
 
 
-## 🏅 성과 지표 (Achievement Metrics)
-| 부문                    | 수치      | 
-| ----------------------- | --------- |
-| 개발된 Agent 수         | 0         | 
-
-
-
-## 💡 참고 레퍼런스 (Reference)
-- [Tips for building AI Agents](https://www.youtube.com/watch?v=LP5OCa20Zpg): Agent의 전망, 팁
-- [AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction): HuggingFace AI Agent Course
-- [ADAS, Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435): 다른 AI를 설계하는 Meta Agent
-- [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924): Agent들로 구성된 게임회사
-
 ## 🌱 참여 안내 (How to Engage)
 ### 정규 팀원(러너)으로 참여하시려면 러너 모집 기간에 신청해주세요.
 - 정규 모집 기간: 2025.02.19~03.01
 - 링크 : 준비중
 - 1차 모집 인원 : 00명
 
-### 참여 최소 요건
+### 최소 요건
 - "스프린트" 이탈 사유가 없으신 분
 - 본인이 맡은 Task를 "책임감"있게 소화하실 수 있으신 분
 - 연락이 "잘" 되시는 분
 
-### 참여 최소 역량
-- 참여하시는 분야(웹, AI 등등)에서의 최소 프로그래밍 능력
+### 최소 역량
+- 참여하시는 분야(웹, AI 등등)에서의 기본 프로그래밍 능력
 - 상호 존중과 열린 자세에 기반한 커뮤니케이션 및 협업 능력
 
 ### 포텐 넘치는 시너지 (Synergy)
@@ -173,6 +160,18 @@ gantt
 
 ❤️‍🔥 열정이 너무 뜨거워 컵라면 정도는 열정으로 끓이시는 분
 
+
+## 🏅 성과 지표 (Achievement Metrics)
+| 부문                    | 수치      | 
+| ----------------------- | --------- |
+| 개발된 Agent 수         | 0         | 
+
+
+## 💡 참고 레퍼런스 (Reference)
+- [Tips for building AI Agents](https://www.youtube.com/watch?v=LP5OCa20Zpg): Agent의 전망, 팁
+- [AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction): HuggingFace AI Agent Course
+- [ADAS, Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435): 다른 AI를 설계하는 Meta Agent
+- [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924): Agent들로 구성된 게임회사
 
 ## Acknowledgement 🙏
 Pseudo Company is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.

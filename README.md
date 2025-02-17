@@ -108,7 +108,7 @@ gantt
 |                     | Backlog 산정 및 우선순위 배정                      |
 |                     | Task 분배 및 추정 기간 설정                        |
 | 2. 스프린트 진행    | 데일리 스탠드업                                    |
-|                     | 주간 Collab Day                                    |
+|                     | 매주 토요일 Collab Day                             |
 | 3. 스프린트 마무리  | 스프린트 리뷰                                      |
 |                     | 스프린트 회고                                      |
 
@@ -122,8 +122,8 @@ gantt
 | 2025/04/27-05/03    | Magical Week           | 개별      | 
 | 2025/05/05          | Sprint2 Retrospective  | 전체      | 
 | 2025/05/17          | Pseudo Conference      | 전체      | 
-| 2025/05/??-??       | Work Shop(희망사항)     | 전체      | 
-| 2025/06/02          | Sprint3 Retrospective  | 전체      | 
+| 2025/05/??-??       | Work Shop(희망사항)     | 전체      |
+| 2025/06/02          | Sprint3 Retrospective  | 전체      |
 | 2025/06/16          | Sprint4 Retrospective  | 전체      |
 
 

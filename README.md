@@ -125,11 +125,11 @@ gantt
 ## 🛠️ 기술 스택 (Technology Stack)
 | 기술                    | 스택      | 
 | ----------------------- | --------- |
-| Language                | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| Language                | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ... |
 | AI Framework & Library  | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FF0072?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0F9D58?style=for-the-badge&logo=langgraph&logoColor=white) ... | 
 | Web Framework & Library | ?         | 
 | Database                | ?         | 
-| MLOps                   | ![LangSmith](https://img.shields.io/badge/LangSmith-4285F4?style=for-the-badge&logo=langchain&logoColor=white) | 
+| MLOps                   | ![LangSmith](https://img.shields.io/badge/LangSmith-4285F4?style=for-the-badge&logo=langchain&logoColor=white) ... | 
 | DevOps                  | ?         | 
 | Collaboration Tools | ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Wiki](https://img.shields.io/badge/-GitHub%20Wiki-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | 
 

@@ -177,9 +177,12 @@ gantt
 - [ADAS, Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435): 다른 AI를 설계하는 Meta Agent
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924): Agent들로 구성된 게임회사
 
+### 꿈꾸는 예상 최종 산출물
+![image](https://github.com/user-attachments/assets/5340820a-e7e5-4e8d-988e-171dff755dff)
+
+
 ## Acknowledgement 🙏
 Pseudo Company is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
-
 
 ## About Pseudo Lab 👋🏼</h2>
 

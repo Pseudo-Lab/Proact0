@@ -73,11 +73,11 @@
 | 역할                | 이름      | 주요 관심 분야  | 소개 링크   |
 |---------------------|-----------|-----------------|-------------|
 | **Project Manager** | 박중헌    | ![LLM](https://img.shields.io/badge/LLM-FF6F61?style=flat) ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat) ![Cloud Infra](https://img.shields.io/badge/Cloud_Infra-1E90FF?style=flat) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hon2yb22) [![중헌 아카이브](https://img.shields.io/badge/중헌_아카이브-yellow?style=flat-square&logo=linkedin&logoColor=white)](https://www.hon2yt2ch.life/) |
-| **Member**          | Your Name    | Anything |  |
-| **Member**          | Your Name    | Anything |  |
-| **Member**          | Your Name    | Anything |  |
-| **Member**          | Your Name    | Anything |  |
-| **Member**          | Your Name    | Anything |  |
+| **Project Manager** | 황윤희    | Anything |        |
+| **Member**          | Your Name    | Anything |          |
+| **Member**          | Your Name    | Anything |          |
+| **Member**          | Your Name    | Anything |          |
+| **Member**          | Your Name    | Anything |          |
 ...
 
 

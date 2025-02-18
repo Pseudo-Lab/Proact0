@@ -156,7 +156,7 @@ gantt
 - 상호 존중과 열린 자세에 기반한 커뮤니케이션 및 협업 능력
 
 ### 저희는 지원자님에게 이런 걸 알고 싶어요!
-- 해당 프로젝트에서 어떻게 기여하실 예정인가요? Agent(AI Backend, RAG, LLM), Web, Design 등 - 팀 구성에 활용됩니다.
+- 해당 프로젝트에서 어떻게 기여하실 예정인가요? Agent(AI Backend, RAG, LLM...), Web, Design 등 - 팀 구성에 활용됩니다.
 - 만들고 싶은(or 원하는) Agent가 있나요?
 - 특별히 사용해보고 싶은 기술 스택(Framework, Library, Opensource 등)이 있나요?
 - 프로젝트에서 바라는 점이 있다면?

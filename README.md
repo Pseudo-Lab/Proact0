@@ -75,7 +75,7 @@
 - 주도적인 Architecture, Flow, 기능 설계 및 개발
 
 
-## 🤔 어떤 걸 하게 되나요?
+## 🤔 이번 기수에선 어떤 걸 하게 되나요?
 - Professional Agent 구현
 - Multi-Agent Orchestration System 구축
 

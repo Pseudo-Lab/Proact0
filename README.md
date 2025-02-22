@@ -68,6 +68,18 @@
 - 실제로 Agent가 협업하는 모습을 홈페이지/프로그램으로 시각화하여 ${\textsf{\color{ProcessBlue}가시성 및 UX}}$를 높힐 것 입니다.
 
 
+## 🤔 어떤 걸 경험 해볼 수 있나요?
+- LangChain, LangGraph, Ollama와 같은 최신 프레임워크/툴 적용해보기
+- Prompt Engineering(CoT, ToT, GoT), SFT, RAG, Task Oriented Dialog(TOD) 등의 최신 기술/기법 응용, 활용해보기
+- Agile 기반 협업 프로세스
+- 주도적인 Architecture, Flow, 기능 설계 및 개발
+
+
+## 🤔 어떤 걸 하게 되나요?
+- Professional Agent 구현
+- Multi-Agent Orchestration System 구축
+
+
 ## 🧑 회사 구성원 소개
 
 | 역할                | 이름      | 주요 관심 분야  | 소개 링크   |
@@ -97,7 +109,6 @@ gantt
     Pseudo Conference         :b3, 2025-05-17, 1d
     Work Shop                 :b4, after b3, 2d
 ```
-
 
 
 ## 🏃 스프린트 진행 방식 (Sprint Process)

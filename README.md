@@ -1,3 +1,6 @@
+# Pseudo-Group Organization
+[Pseudo Group Link](https://github.com/Pseudo-Group)
+
 # Pseudo-Company
 
 <h1 align="center" style="color:orange;" > ${\textsf{\color{orange}Pseudo Company(가짜 회사)}}$ </h1>

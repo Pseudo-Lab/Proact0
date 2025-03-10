@@ -84,12 +84,11 @@
 - Multi-Agent Orchestration System 구축
 
 
-## 🧑 회사 구성원 소개
+## 🧑 회사 운영진 소개
 
 | 역할                | 이름      | 주요 관심 분야  | 소개 링크   |
 |---------------------|-----------|-----------------|-------------|
 | **Project Manager** | 박중헌    | ![LLM](https://img.shields.io/badge/LLM-FF6F61?style=flat) ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat) ![Cloud Infra](https://img.shields.io/badge/Cloud_Infra-1E90FF?style=flat) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hon2yb22) [![중헌 아카이브](https://img.shields.io/badge/중헌_아카이브-yellow?style=flat-square&logo=linkedin&logoColor=white)](https://www.hon2yt2ch.life/) |
-| **Project Manager** | 황윤희    | ![LLM](https://img.shields.io/badge/LLM-FF6F61?style=flat) ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat) ![Multi Modal](https://img.shields.io/badge/Multi_Modal-4B0082?style=flat)  |  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meuni)  [![Notion](https://img.shields.io/badge/Notion-pink?style=flat-square&logo=linkedin&logoColor=white)](https://uni95.notion.site/UNI-Hwang-94a43a7f302c4a418f5dbb9706d2ad5e?pvs=4)    |
 | **Member**          | Your Name    | Anything |          |
 | **Member**          | Your Name    | Anything |          |
 | **Member**          | Your Name    | Anything |          |

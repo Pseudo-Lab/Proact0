@@ -56,21 +56,24 @@
 
 
 ## 🎯 프로젝트 목표 (Project Vision)
+![image](https://github.com/user-attachments/assets/ce1eed26-7bfb-4efb-b4cd-0e674bd6a02e)
+
 ### ${\textsf{\color{WildStrawberry}No Human}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
 > 우선 순위가 높은 순서대로 정렬해놓았습니다.
 
 #### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
-- ${\textsf{\color{ProcessBlue}CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등}}$ 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
-- Agent가 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
+- ${\textsf{\color{ProcessBlue}CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등}}$ 여러분들이 만들고 싶은 모든 Professional Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
+- Professional Agent는 모두 ${\textsf{\color{ProcessBlue}Agentic AI System(Agentic Workflow)}}$ 형태를 띄고 있습니다.
+- Professional Agent가 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
 - 가짜 회사는 엔터테인먼트 회사가 될 수도 있고, 게임 회사가 될 수도 있고, 디자인 회사가 될 수도 있습니다.
 
-#### 두번째 목표: ${\textsf{\color{YellowOrange}Multi-Agent Orchestration}}$
-- 개발한 Agent들이 원활하게 ${\textsf{\color{ProcessBlue}협업}}$을 할 수 있도록 환경을 조성하는 것을 목표로 합니다.
-- 가짜 회사의 Agent들은 ${\textsf{\color{ProcessBlue}스스로}}$ 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
+#### 두번째 목표: ${\textsf{\color{YellowOrange}Complete Agentic Collaboration}}$
+- Professional Agent들이 원활하게 ${\textsf{\color{ProcessBlue}협업}}$을 할 수 있도록 이상적인 Agentic Collaboration System 환경을 조성하는 것을 목표로 합니다.
+- 가짜 회사의 Professional Agent들은 ${\textsf{\color{ProcessBlue}스스로}}$  회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
 
-#### 세번째 목표: ${\textsf{\color{YellowOrange}Agent Collaboration Visualization}}$
-- 실제로 Agent가 협업하는 모습을 홈페이지/프로그램으로 시각화하여 ${\textsf{\color{ProcessBlue}가시성 및 UX}}$를 높힐 것 입니다.
-
+#### 세번째 목표: ${\textsf{\color{YellowOrange}All-in-one Agentic Collaboration Visualization}}$
+- 실제로 Professional Agent들이 협업하는 모습을 ${\textsf{\color{ProcessBlue}홈페이지/프로그램으로 시각화}}$하는 것을 목표로 합니다.
+- 업무 환경을 가시화시키고 실시간으로 모니터링하면서 Professional Agent들의 흐름을 추적합니다.
 
 ## 🤔 어떤 걸 경험 해볼 수 있나요?
 - LangChain, LangGraph, Ollama와 같은 최신 프레임워크/툴 적용해보기
@@ -84,12 +87,12 @@
 - Multi-Agent Orchestration System 구축
 
 
-## 🧑 회사 운영진 소개
+## 🧑 그룹 운영진 소개
 
 | 역할                | 이름      | 주요 관심 분야  | 소개 링크   |
 |---------------------|-----------|-----------------|-------------|
 | **Group Manager** | 박중헌    | ![LLM](https://img.shields.io/badge/LLM-FF6F61?style=flat) ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat) ![Cloud Infra](https://img.shields.io/badge/Cloud_Infra-1E90FF?style=flat) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hon2yb22) [![중헌 아카이브](https://img.shields.io/badge/중헌_아카이브-yellow?style=flat-square&logo=linkedin&logoColor=white)](https://www.hon2yt2ch.life/) |
-| **Member**          | Your Name    | Anything |          |
+| **Company Leader**          | 윤하린    |  |          |
 | **Member**          | Your Name    | Anything |          |
 | **Member**          | Your Name    | Anything |          |
 | **Member**          | Your Name    | Anything |          |
@@ -155,36 +158,36 @@ gantt
 
 
 ## 🌱 참여 안내 (How to Engage)
-### 정규 팀원(러너)으로 참여하시려면 러너 모집 기간에 신청해주세요.
-- 정규 모집 기간: 2025.02.19~03.01
-- 링크 : 준비중
-- 1차 모집 인원 : 00명
+하단 모집공고 링크를 확인해주세요!
+- 모집 공고 링크: ![Pseudo Group Hire](https://www.hon2yt2ch.life/pseudo-group/hire)
 
-### 최소 요건
-- 스프린트 이탈 사유가 없으신 분
-- 본인이 맡은 Task를 책임감있게 소화하실 수 있으신 분
-- 연락이 잘 되시는 분
+### 그룹 문화 (Our Synergy)
+### 🔍 궁금한 건 못 참지
 
-### 최소 역량
-- 참여하시는 분야(웹, AI 등등)에서의 기본 프로그래밍 능력
-- 상호 존중과 열린 자세에 기반한 커뮤니케이션 및 협업 능력
+- 저희의 모든 프로젝트들은 호기심에서 시작합니다.
+- 생성적인 질문들을 하며 기본에 도전하고 타인과 경청하고 예측할 수 없는 것들을 환영하는 그런 소양을 가지신 분들을 찾고 있습니다.
 
-### 저희는 지원자님에게 이런 걸 알고 싶어요!
-- 해당 프로젝트에서 어떤 Task를 주로 맡고 싶으신가요? Agent(AI Backend, RAG, LLM...), Web, Design 등 - 팀 구성에 활용됩니다.
-- 만들고 싶은(or 원하는) Agent가 있나요?
-- 특별히 사용해보고 싶은 기술 스택(Framework, Library, Opensource 등)이 있나요?
-- 프로젝트에서 바라는 점이 있다면?
+### 🧗 도전하는 것을 주저하지 않도록
 
-### 포텐 넘치는 시너지 (Synergy)
-🔍 궁금한 건 못 참으시는 분
+- 도전정신으로 모든 일을 임하면 어느샌가 더 높은 위치에 서있는 나 자신을 발견하게 될 것 입니다.
+- Group이라는 뒷받침 속에서 누구나 할 수 없는 혁신적인 도전에 주저하지 않고 참여하세요.
 
-🧗 도전하는 것을 주저하지 않으시는 분
+### 😤 능동적으로 행동하기
 
-😤 수동적이지 않고 능동적인 분
+- 목적의식을 뚜렷이 가지고 행동하는 사람들이 모이면 목적 그 이상의 성과가 나타나지게 됩니다.
+- 자신이 하고 싶은 것과 해야 할 것을 알고 일을 찾아서 하는 건 뿌듯한 일이죠.
+- 목표를 세우고 이루기 위해 노력하는 것 만큼 멋진 것도 없습니다.
 
-🧱 "벽은 부수라고 있는 거야"라고 생각하시는 분
+### 🧱 "벽은 부수라고 있는 거야"
 
-❤️‍🔥 열정이 너무 뜨거워 컵라면 정도는 열정으로 끓이시는 분
+- 어느 뇌과학 연구에서 “한계는 뇌가 만들어낸 허상’이라 라는 결과가 있습니다.
+- 뇌는 현재 투입되는 노력을 고려해서 극에 달하는 상태까지 가는 것을 막기 위해 한계 범위를 만든다는 것입니다.
+- 우리는 우리의 미래와 성공에 대해 스스로 한계를 짓지 않고 목표를 향해 의식적으로 행동하며 잠재력을 끌어 올리는 중입니다.
+
+### ❤️‍🔥 너는 열정이 너무 뜨거워서 컵라면도 열정으로 끓여 먹겠다
+
+- 해야하는 일은 어느 일이던 정해져 있습니다. 대부분의 사람들은 그 일이 끝나게 되면 더이상 바라보지 않습니다.
+- 그러나 우리는 그에 그치지 않고 더 나아가서 새로운 판로를 개척해나가는 분들과 함께해 긍적적인 작용들을 원합니다.
 
 
 ## 🏅 성과 지표 (Achievement Metrics)

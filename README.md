@@ -10,7 +10,6 @@
 <a href="https://github.com/Pseudo-Lab/Pseudo-Company/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Group/Pseudo-Group-Forum" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/Pseudo-Company/issues"><img src="https://img.shields.io/github/issues/Pseudo-Group/Pseudo-Group-Forum" alt="Issues Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/Pseudo-Company/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Group/Pseudo-Group-Forum?color=2b9348"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPseudo-Group%2FPseudo-Group-Forum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
 

@@ -1,6 +1,4 @@
-# Pseudo-Company
-
-<h1 align="center" style="color:orange;" > Pseudo Company(가짜 회사) </h1>
+# Pseudo Company(가짜 회사) 
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -27,7 +25,7 @@
 > Pseudo Group Github: https://github.com/Pseudo-Group
 
 
-> 가짜 회사에 오신 여러분들을 환영합니다! 가짜 회사는 Web, Cloud, AI Backend, LLM, sLLM, RAG, Prompt Engineering 등의 기술들을 직접 사용하고 응용하고 활용하여 여러분들이 ${\textsf{\color{ProcessBlue}원하는 Agent}}$를 만들고, ${\textsf{\color{ProcessBlue}Multi-Agent Orchestration System}}$을 구축하여 생산성을 향상시키는 프로젝트입니다. 
+> 가짜 회사에 오신 여러분들을 환영합니다! 가짜 회사는 Web, Cloud, AI Backend, LLM, sLLM, RAG, Prompt Engineering 등의 기술들을 직접 사용하고 응용하고 활용하여 여러분들이 원하는 Agent를 만들고, Multi-Agent Orchestration System을 구축하여 생산성을 향상시키는 프로젝트입니다. 
 
 | `폭발적인 성장`, `의미있는 성과 창출`, `AI시대에서 살아남기`, `진짜 협업하기`. 모두 ${\textsf{\color{YellowOrange}Pseudo Company™}}$에서 함께 할 수 있습니다.
 
@@ -35,30 +33,30 @@
 ### 이용 당하느냐. VS 이용 하느냐.
 - AI로 할 수 있는 일은 앞으로 점차 늘어날 것 입니다.
 - AI의 발전은 생활이 더 편해진다는 것과 더불어 많은 일들이 대체(자동화) 된다는 이야기이기도 합니다.
-- IMF보고서에 따르면 선진국에서 AI기술이 ${\textsf{\color{goldenrod}60\\%}}$의 직업에 영향을 미칠 것으로 전망하였고
-- 맥킨지 글로벌 연구소는 2030년까지 전 세계적으로 ${\textsf{\color{goldenrod}8억개}}$의 일자리가 AI에 의해 대체될 것으로 전망하였습니다.
-- 이러한 AI 사회에서 여러분들은 ${\textsf{\color{magenta}어떻게}}$ 행동하실 건가요? 
-- "AI에게 ${\textsf{\color{magenta}이용당하실}}$" 건가요? 아니면 "AI를 ${\textsf{\color{magenta}이용하실}}$" 건가요?
+- IMF보고서에 따르면 선진국에서 AI기술이 60의 직업에 영향을 미칠 것으로 전망하였고
+- 맥킨지 글로벌 연구소는 2030년까지 전 세계적으로 8억개의 일자리가 AI에 의해 대체될 것으로 전망하였습니다.
+- 이러한 AI 사회에서 여러분들은 어떻게 행동하실 건가요? 
+- "AI에게 이용당하실" 건가요? 아니면 "AI를 이용하실" 건가요?
 
 ### 왜 우리는 효율적으로 살아가야 하는가? 왜 AI를 활용해야 하는가?
 - 시간은 우리 인생에서 가장 소중하고 한정된 자원입니다.
 - 효율적으로 살아간다는 것은 이 한정된 시간을 최대한 활용하여, 더 의미 있고 가치 있는 일에 집중할 수 있도록 만드는 것을 의미합니다.
-- AI는 반복적이고 단순한 업무를 ${\textsf{\color{ProcessBlue}자동화}}$하여, 같은 작업을 훨씬 빠르고 정확하게 수행할 수 있게 도와줍니다.
-- 이를 통해 우리는 남는 시간을 ${\textsf{\color{ProcessBlue}창의적이고 전략적인 업무}}$에 투자할 수 있으며, 개인과 조직 모두 생산성을 극대화할 수 있습니다.
+- AI는 반복적이고 단순한 업무를 자동화하여, 같은 작업을 훨씬 빠르고 정확하게 수행할 수 있게 도와줍니다.
+- 이를 통해 우리는 남는 시간을 창의적이고 전략적인 업무에 투자할 수 있으며, 개인과 조직 모두 생산성을 극대화할 수 있습니다.
 - 가짜 회사는 AI를 활용하여 모든 일에서 인간이 투자하는 시간을 ${\textsf{\color{goldenrod}0}}$으로 수렴해 나갈 것입니다.
 
 ### LLM 기술만으론 마법이 일어나지 않습니다. 우리는 발상의 전환이 필요합니다.
 > _“RAG(Retrieval-Augmented Generation) 기술 자체는 단순하지만, 실제 구현에는 많은 세부사항이 필요합니다. 검색 품질을 높이기 위해 크롤링, 인덱싱, 랭킹 등 여러 기술 요소들을 세밀하게 조정해야 합니다. 순수한 벡터 임베딩만으로는 충분하지 않으며, 전통적인 IR 기법들과 하이브리드 접근이 필요합니다. Perplexity는 자체 Sonar 모델을 개발하고 지속적으로 개선하고 있습니다. 검색 성능 향상을 위해 latency 관리 등 다양한 최적화 작업을 수행하고 있습니다.”_ <br> – Aravind Srinivas, Perplexity CEO. Lex Fridman 팟캐스트에서
 
-- 우리는 AI 기술과 더불어 개인이 가지고 있는 도메인 지식/기술 등을 ${\textsf{\color{ProcessBlue}응용, 조합, 재해석}}$하여 여러 관점에서 Agent 생성을 시도해보고 검증해나갈 것입니다.
+- 우리는 AI 기술과 더불어 개인이 가지고 있는 도메인 지식/기술 등을 응용, 조합, 재해석하여 여러 관점에서 Agent 생성을 시도해보고 검증해나갈 것입니다.
 
 ### 가짜 회사에서는 Agent들이 여러분들의 일을 대신 수행해 줄 것 입니다.
 - 가짜 회사에서는 AI를 극한까지 활용하여 여러분들의 일을 대신 수행해 주는 Agent들을 개발합니다.
-- 각자가 ${\textsf{\color{ProcessBlue}원하는 Agent}}$를 개발하여 가짜 회사에 입사시킬 수 있고 해당 Agent는 자체적으로 자신의 업무를 수행합니다.
+- 각자가 원하는 Agent를 개발하여 가짜 회사에 입사시킬 수 있고 해당 Agent는 자체적으로 자신의 업무를 수행합니다.
 
 
 ## 🎯 프로젝트 목표 (Project Vision)
-### ${\textsf{\color{WildStrawberry}No Human}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
+### No Human, Just Agent
 ![image](https://github.com/user-attachments/assets/38be7f64-b3ce-431d-aa7e-b688e25b6a19)
 
 #### Professional Agents
@@ -137,7 +135,7 @@
 | Checker (Git Hook 내장) | `flake8`: Code Quality Check |
 | |`black`: Code Formatting Check |
 | |`isort`: Import Sorting Check |
-| 그 외 Langgraph Workflow 내부 배포 프레임워크 | 팀 자유 선택 (e.g., `CrewAI`, `AutoGen`, `Dify`, etc.) 참고: https://langchain-ai.github.io/langgraph/how-tos/autogen-langgraph-platform/  |
+| 그 외 Workflow 내부 배포 프레임워크 | 팀 자유 선택 (e.g., `CrewAI`, `AutoGen`, `Dify`, etc.) 참고: https://langchain-ai.github.io/how-tos/autogen-platform/  |
 
 ### Web(미정)
 

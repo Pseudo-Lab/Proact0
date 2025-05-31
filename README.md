@@ -1,6 +1,6 @@
 # Pseudo-Company
 
-<h1 align="center" style="color:orange;" > ${\textsf{\color{orange}Pseudo Company(가짜 회사)}}$ </h1>
+<h1 align="center" style="color:orange;" > Pseudo Company(가짜 회사) </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>

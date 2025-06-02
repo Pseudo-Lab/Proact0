@@ -12,9 +12,10 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/3f0f64e8-cda3-44e7-8775-15157dff1d52" alt="iwantyou" height="350"/>
-<img src="https://github.com/user-attachments/assets/6f2dd11e-48a5-4a6f-978e-7a6169e97f84" alt="iwantyou" height="350"/>
-<img src="https://github.com/user-attachments/assets/3f0f64e8-cda3-44e7-8775-15157dff1d52" alt="iwantyou" height="350"/>
+<img src="https://github.com/user-attachments/assets/7f6cdba7-921f-4118-8af8-ac489ebc6932" alt="Poster" height="350"/>
+<img src="https://github.com/user-attachments/assets/7f6cdba7-921f-4118-8af8-ac489ebc6932" alt="Poster" height="350"/>
+<img src="https://github.com/user-attachments/assets/7f6cdba7-921f-4118-8af8-ac489ebc6932" alt="Poster" height="350"/>
+
 </div>
 
 <br>
@@ -27,7 +28,7 @@
 
 > 가짜 회사에 오신 여러분들을 환영합니다! 가짜 회사는 Web, Cloud, AI Backend, LLM, sLLM, RAG, Prompt Engineering 등의 기술들을 직접 사용하고 응용하고 활용하여 여러분들이 원하는 Agent를 만들고, Multi-Agent Orchestration System을 구축하여 생산성을 향상시키는 프로젝트입니다. 
 
-| `폭발적인 성장`, `의미있는 성과 창출`, `AI시대에서 살아남기`, `진짜 협업하기`. 모두 ${\textsf{\color{YellowOrange}Pseudo Company™}}$에서 함께 할 수 있습니다.
+| `폭발적인 성장`, `의미있는 성과 창출`, `AI시대에서 살아남기`, `진짜 협업하기`. 모두Pseudo Company™에서 함께 할 수 있습니다.
 
 ## 🌟 프로젝트 개요 (Project Overview)
 ### 이용 당하느냐. VS 이용 하느냐.
@@ -43,7 +44,7 @@
 - 효율적으로 살아간다는 것은 이 한정된 시간을 최대한 활용하여, 더 의미 있고 가치 있는 일에 집중할 수 있도록 만드는 것을 의미합니다.
 - AI는 반복적이고 단순한 업무를 자동화하여, 같은 작업을 훨씬 빠르고 정확하게 수행할 수 있게 도와줍니다.
 - 이를 통해 우리는 남는 시간을 창의적이고 전략적인 업무에 투자할 수 있으며, 개인과 조직 모두 생산성을 극대화할 수 있습니다.
-- 가짜 회사는 AI를 활용하여 모든 일에서 인간이 투자하는 시간을 ${\textsf{\color{goldenrod}0}}$으로 수렴해 나갈 것입니다.
+- 가짜 회사는 AI를 활용하여 모든 일에서 인간이 투자하는 시간을 0으로 수렴해 나갈 것입니다.
 
 ### LLM 기술만으론 마법이 일어나지 않습니다. 우리는 발상의 전환이 필요합니다.
 > _“RAG(Retrieval-Augmented Generation) 기술 자체는 단순하지만, 실제 구현에는 많은 세부사항이 필요합니다. 검색 품질을 높이기 위해 크롤링, 인덱싱, 랭킹 등 여러 기술 요소들을 세밀하게 조정해야 합니다. 순수한 벡터 임베딩만으로는 충분하지 않으며, 전통적인 IR 기법들과 하이브리드 접근이 필요합니다. Perplexity는 자체 Sonar 모델을 개발하고 지속적으로 개선하고 있습니다. 검색 성능 향상을 위해 latency 관리 등 다양한 최적화 작업을 수행하고 있습니다.”_ <br> – Aravind Srinivas, Perplexity CEO. Lex Fridman 팟캐스트에서

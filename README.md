@@ -20,10 +20,15 @@
 > 
 > Proact0 Github: https://github.com/Proact0
 
+Proact0에 오신 여러분들을 환영합니다!
 
-> Proact0에 오신 여러분들을 환영합니다! Proact0는 Web, Cloud, AI Backend, LLM, sLLM, RAG, Prompt Engineering 등의 기술들을 직접 사용하고 응용하고 활용하여 여러분들이 원하는 Actor를 만들고, Act System을 구축하여 생산성을 향상시키는 프로젝트입니다. 
+> “Proact0”는 기존 AI Agent 개념의 발전을 제고하기 위해 설립된 “비영리” 오픈소스 연합 커뮤니티, OSPO(Open Source Program Office) 단체입니다.
 
-| `폭발적인 성장`, `의미있는 성과 창출`, `AI시대에서 살아남기`, `진짜 협업하기`. 모두Pseudo Company™에서 함께 할 수 있습니다.
+> 저희는 모든 도메인에서 각 작업의 특성에 맞게 Research & Develop & Test를 진행하며 맞춤형 Agentic-AI System을 구축하고, 각 도메인의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
+
+> 각각의 Crew Project는 ZeroC(Act 전용 Contribution System) 안의 원하는 도메인 플랫폼 Act(Product)에서 Cast(≒ Agent Team)을 담당하고 필요한 Actor(≒ Agent)들을 능동적으로 설계하며 구현합니다.
+
+| `폭발적인 성장`, `의미있는 성과 창출`, `AI시대에서 살아남기`, `진짜 협업하기`. 모두 Proact0™에서 함께 할 수 있습니다.
 
 ## 🌟 프로젝트 개요 (Project Overview)
 #### 이용 당하느냐. VS 이용 하느냐.

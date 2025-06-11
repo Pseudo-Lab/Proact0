@@ -11,11 +11,6 @@
 </div>
 <br>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/7f6cdba7-921f-4118-8af8-ac489ebc6932" alt="Poster" height="350"/>
-<img src="https://github.com/user-attachments/assets/7f6cdba7-921f-4118-8af8-ac489ebc6932" alt="Poster" height="350"/>
-<img src="https://github.com/user-attachments/assets/7f6cdba7-921f-4118-8af8-ac489ebc6932" alt="Poster" height="350"/>
-
 </div>
 
 <br>

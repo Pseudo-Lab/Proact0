@@ -26,7 +26,7 @@ Proact0에 오신 여러분들을 환영합니다!
 >
 > 저희는 모든 도메인에서 각 작업의 특성에 맞게 Research & Develop & Test를 진행하며 맞춤형 Agentic-AI System을 구축하고, 각 도메인의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
 >
-> 각각의 Crew Project는 ZeroC(Act 전용 Contribution System) 안의 원하는 도메인 플랫폼 Act(Product)에서 Cast(≒ Agent Team)을 담당하고 필요한 Actor(≒ Agent)들을 능동적으로 설계하며 구현합니다.
+> 각각의 Crew Project는 ZeroC(Act 전용 Contribution System) 안의 원하는 도메인 플랫폼 Act[Product]에서 Cast(≒ Agent Team)을 담당하고 필요한 Actor(≒ Agent)들을 능동적으로 설계하며 구현합니다.
 
 | `폭발적인 성장`, `의미있는 성과 창출`, `AI시대에서 살아남기`, `진짜 협업하기`. 모두 Proact0™에서 함께 할 수 있습니다.
 
